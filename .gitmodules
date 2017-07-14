@@ -1,0 +1,3 @@
+[submodule "2017-06-29-causal-inference"]
+	path = 2017-06-29-causal-inference
+	url = git@github.com:jeralbri/short-causal-inference-intro.git
