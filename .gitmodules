@@ -1,3 +1,6 @@
 [submodule "2017-06-29-causal-inference"]
 	path = 2017-06-29-causal-inference
 	url = git@github.com:jeralbri/short-causal-inference-intro.git
+[submodule "2017-07-06-purrr"]
+	path = 2017-07-06-purrr
+	url = git@github.com:scheidec/purrr_tutorial.git
