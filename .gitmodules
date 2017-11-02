@@ -7,3 +7,12 @@
 [submodule "2017-07-13-tidyeval"]
 	path = 2017-07-13-tidyeval
 	url = git@github.com:MBattagl/tidyeval.git
+[submodule "using_packrat"]
+	path = 2017-08-10-packrat
+	url = https://github.com/scheidec/using_packrat
+[submodule "cluster-analysis-r-pedagogy"]
+	path = 2017-10-19-cluster-analysis
+	url = https://github.com/scheidec/cluster-analysis-r-pedagogy
+[submodule "interp-binary-pt1"]
+	path = 2017-09-22-logistic-part-1
+	url = https://github.com/jeralbri/interp-binary-pt1
