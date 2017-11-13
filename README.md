@@ -11,3 +11,4 @@ A collection of our weekly, internal presentations.
 - 2017-08-10: [Packrat](https://cdn.rawgit.com/scheidec/using_packrat/25b40f21477e03385fa488ce608bdb3cec5fa4fc/presentation/presentation.html)
 - 2017-09-22: [Interpreting Logistic Regression Parts 1 and 2](https://cdn.rawgit.com/jeralbri/interp-binary-pt1/43c31da8401eea90582870f21984a77cdea091d7/binary-interp/binary-interp.html)
 - 2017-10-19: [Cluster Analysis](https://cdn.rawgit.com/scheidec/cluster-analysis-r-pedagogy/75161834319aeb968752a75bacd251ebd04b3cbb/Cluster_Analysis.html)
+- 2017-11-09: [Using Docker with R](https://cdn.rawgit.com/ClaytonJY/r-docker-slides/733c40b5/slides/slides.html)
