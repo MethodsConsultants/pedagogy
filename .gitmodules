@@ -16,3 +16,6 @@
 [submodule "interp-binary-pt1"]
 	path = 2017-09-22-logistic-part-1
 	url = https://github.com/jeralbri/interp-binary-pt1
+[submodule "2017-11-09-docker-with-r"]
+	path = 2017-11-09-docker-with-r
+	url = git@github.com:ClaytonJY/r-docker-slides.git
