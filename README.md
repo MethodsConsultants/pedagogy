@@ -12,3 +12,5 @@ A collection of our weekly, internal presentations.
 - 2017-09-22: [Interpreting Logistic Regression Parts 1 and 2](https://cdn.rawgit.com/jeralbri/interp-binary-pt1/43c31da8401eea90582870f21984a77cdea091d7/binary-interp/binary-interp.html)
 - 2017-10-19: [Cluster Analysis](https://cdn.rawgit.com/scheidec/cluster-analysis-r-pedagogy/75161834319aeb968752a75bacd251ebd04b3cbb/Cluster_Analysis.html)
 - 2017-11-09: [Using Docker with R](https://cdn.rawgit.com/ClaytonJY/r-docker-slides/733c40b5/slides/slides.html)
+- 2018-01-10: [Blogdown](https://cdn.rawgit.com/jeralbri/blogdown-presentation/d8f45fff3249910b526cadd4dfe5f9822c32bab1/Blogging%20with%20Blogdown%20and%20Gitlab/Blogging_with_Blogdown_and_Gitlab.html)
+- 2018-01-25: [CI/CD](https://cdn.rawgit.com/scheidec/ci-cd/1e88a370324388f99415c2a6d0e7040981b743e6/CI-CD/CI-CD.html)
