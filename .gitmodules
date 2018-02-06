@@ -25,3 +25,6 @@
 [submodule "2018-01-10-blogdown"]
 	path = 2018-01-10-blogdown
 	url = https://github.com/jeralbri/blogdown-presentation
+[submodule "2017-11-02-python-quantopian"]
+	path = 2017-11-02-python-quantopian
+	url = https://github.com/MBattagl/python-quantopian
