@@ -19,3 +19,9 @@
 [submodule "2017-11-09-docker-with-r"]
 	path = 2017-11-09-docker-with-r
 	url = git@github.com:ClaytonJY/r-docker-slides.git
+[submodule "2018-01-25-ci-cd"]
+	path = 2018-01-25-ci-cd
+	url = https://github.com/scheidec/ci-cd
+[submodule "2018-01-10-blogdown"]
+	path = 2018-01-10-blogdown
+	url = https://github.com/jeralbri/blogdown-presentation
