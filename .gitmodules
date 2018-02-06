@@ -28,3 +28,6 @@
 [submodule "2017-11-02-python-quantopian"]
 	path = 2017-11-02-python-quantopian
 	url = https://github.com/MBattagl/python-quantopian
+[submodule "2018-02-01-caret"]
+	path = 2018-02-01-caret
+	url = https://github.com/MBattagl/caret
