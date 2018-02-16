@@ -16,3 +16,4 @@ A collection of our weekly, internal presentations.
 - 2018-01-10: [Blogdown](https://cdn.rawgit.com/jeralbri/blogdown-presentation/d8f45fff3249910b526cadd4dfe5f9822c32bab1/Blogging%20with%20Blogdown%20and%20Gitlab/Blogging_with_Blogdown_and_Gitlab.html)
 - 2018-01-25: [CI/CD](https://cdn.rawgit.com/scheidec/ci-cd/1e88a370324388f99415c2a6d0e7040981b743e6/CI-CD/CI-CD.html)
 - 2018-02-01: [Caret](https://cdn.rawgit.com/MBattagl/caret/github-master/caret.html)
+- 2018-02-16: [rstudio::conf 2018 recap](https://cdn.rawgit.com/ClaytonJY/rstudioconf-2018-recaps/b8ea74b148ab9721f6b1c9b06aedbffe8747cce6/methods-consultants/methods-consultants.html)

@@ -31,3 +31,6 @@
 [submodule "2018-02-01-caret"]
 	path = 2018-02-01-caret
 	url = https://github.com/MBattagl/caret
+[submodule "2018-02-16-rstudioconf2018-recap"]
+	path = 2018-02-16-rstudioconf2018-recap
+	url = git@github.com:ClaytonJY/rstudioconf-2018-recaps.git
