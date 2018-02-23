@@ -34,3 +34,6 @@
 [submodule "2018-02-16-rstudioconf2018-recap"]
 	path = 2018-02-16-rstudioconf2018-recap
 	url = git@github.com:ClaytonJY/rstudioconf-2018-recaps.git
+[submodule "2018-02-22-python-packaging-testing"]
+	path = 2018-02-22-python-packaging-testing
+	url = https://github.com/scheidec/testing-in-python
