@@ -18,3 +18,4 @@ A collection of our weekly, internal presentations.
 - 2018-02-01: [Caret](https://cdn.rawgit.com/MBattagl/caret/github-master/caret.html)
 - 2018-02-16: [rstudio::conf 2018 recap](https://cdn.rawgit.com/ClaytonJY/rstudioconf-2018-recaps/b8ea74b148ab9721f6b1c9b06aedbffe8747cce6/methods-consultants/methods-consultants.html)
 - 2018-02-22: [Python Packaging and Unit Testing](https://cdn.rawgit.com/scheidec/testing-in-python/99a53af1ae54adc9fc72309f47799e44730c01aa/index.html)
+- 2018-03-16: [Early lessons from fast.ai, Part I](https://cdn.rawgit.com/ClaytonJY/fastai-learnings/db9eb8f56f227a2bced55a672af4476f302b5f3b/part1.slides.html)

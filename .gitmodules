@@ -37,3 +37,6 @@
 [submodule "2018-02-22-python-packaging-testing"]
 	path = 2018-02-22-python-packaging-testing
 	url = https://github.com/scheidec/testing-in-python
+[submodule "2018-03-16-fastai-I"]
+	path = 2018-03-16-fastai-I
+	url = git@github.com:ClaytonJY/fastai-learnings.git
