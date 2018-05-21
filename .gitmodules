@@ -40,3 +40,6 @@
 [submodule "2018-03-16-fastai-I"]
 	path = 2018-03-16-fastai-I
 	url = git@github.com:ClaytonJY/fastai-learnings.git
+[submodule "2018—05-18-rf-variable-importance"]
+	path = 2018-05-18-rf-variable-importance
+	url = https://github.com/scheidec/rf-variable-importance
