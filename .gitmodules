@@ -43,3 +43,6 @@
 [submodule "2018—05-18-rf-variable-importance"]
 	path = 2018-05-18-rf-variable-importance
 	url = https://github.com/scheidec/rf-variable-importance
+[submodule "2018-05-04-rare-events-logistic-regression"]
+	path = 2018-05-04-rare-events-logistic-regression
+	url = https://github.com/MBattagl/Rare-Events
