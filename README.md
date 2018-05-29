@@ -21,3 +21,4 @@ A collection of our weekly, internal presentations.
 - 2018-03-16: [Early lessons from fast.ai, Part I](https://cdn.rawgit.com/ClaytonJY/fastai-learnings/db9eb8f56f227a2bced55a672af4476f302b5f3b/part1.slides.html)
 - 2018-05-04: [Rare Events Logistic Regression](https://cdn.rawgit.com/MBattagl/Rare-Events/e2bf62edb04a0935ee87a5a1203eedbf50957d73/rare-events.html)
 - 2018-05-18: [Random Forest Variable Importance](https://cdn.rawgit.com/scheidec/rf-variable-importance/c3e1b0ca3a95b3307dc002d741723fcd8caee021/rf-variable-importance/rf-variable-importance.html)
+- 2018-05-25: [Timezone Troubles in R](https://cdn.rawgit.com/ClaytonJY/timezones-in-R/339b07683820a551b31c56d71cf11bff577c9c8c/slides/slides.html)
