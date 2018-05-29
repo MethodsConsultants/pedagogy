@@ -46,3 +46,6 @@
 [submodule "2018-05-04-rare-events-logistic-regression"]
 	path = 2018-05-04-rare-events-logistic-regression
 	url = https://github.com/MBattagl/Rare-Events
+[submodule "2018-05-25-timezone-troubles-r"]
+	path = 2018-05-25-timezone-troubles-r
+	url = git@github.com:ClaytonJY/timezones-in-R.git
