@@ -15,7 +15,7 @@ A collection of our weekly, internal presentations.
 - 2017-11-09: [Using Docker with R](https://cdn.staticaly.com/gh/ClaytonJY/r-docker-slides/733c40b5/slides/slides.html)
 - 2018-01-10: [Blogdown](https://cdn.staticaly.com/gh/jeralbri/blogdown-presentation/d8f45fff3249910b526cadd4dfe5f9822c32bab1/Blogging%20with%20Blogdown%20and%20Gitlab/Blogging_with_Blogdown_and_Gitlab.html)
 - 2018-01-25: [CI/CD](https://cdn.staticaly.com/gh/scheidec/ci-cd/1e88a370324388f99415c2a6d0e7040981b743e6/CI-CD/CI-CD.html)
-- 2018-02-01: [Caret](https://cdn.staticaly.com/gh/MBattagl/caret/github-master/caret.html)
+- 2018-02-01: [Caret](https://cdn.staticaly.com/gh/MBattagl/caret/a99a13c6bcc5eef7e0c516d7c65b640f719294d2/caret.html)
 - 2018-02-16: [rstudio::conf 2018 recap](https://cdn.staticaly.com/gh/ClaytonJY/rstudioconf-2018-recaps/b8ea74b148ab9721f6b1c9b06aedbffe8747cce6/methods-consultants/methods-consultants.html)
 - 2018-02-22: [Python Packaging and Unit Testing](https://cdn.staticaly.com/gh/scheidec/testing-in-python/99a53af1ae54adc9fc72309f47799e44730c01aa/index.html)
 - 2018-03-16: [Early lessons from fast.ai, Part I](https://cdn.staticaly.com/gh/ClaytonJY/fastai-learnings/db9eb8f56f227a2bced55a672af4476f302b5f3b/part1.slides.html)
